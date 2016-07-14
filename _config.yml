@@ -1,0 +1,14 @@
+layout_spectrum: 0.1689038
+typography_spectrum: 0.1920064
+color:
+  lightness: 1
+  brandStrength: 0.4966273
+  saturation: 0
+  rhythmicContrast: 1
+  brandColors:
+    - '#000001'
+    - '#F7F7F7'
+    - '#302C31'
+    - '#888389'
+    - '#5C565D'
+name: Matt-Geo
