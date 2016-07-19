@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Matt-Geo]]></title>
         <description><![CDATA[Matt-Geo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-geo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 21:00:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 21:08:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-geo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/601b83f6-85bb-4e5a-b642-3e6983656d5d.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/601b83f6-85bb-4e5a-b642-3e6983656d5d.jpg</link>
+            <guid isPermaLink="false">5b92b265-6959-4dad-af00-715dce5352d0</guid>
+            <pubDate>Tue, 19 Jul 2016 21:08:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test post#1]]></title>
             <description><![CDATA[<article><h1>Test post#1</h1><p>Test post #001</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/acbc9d22019ffaad39fa9537d5402b0b/croprotate.jpg?cropheight=1287&cropwidth=1936&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4ba6094f-2ecc-4240-9e05-d5d229b0308a.jpg&x=0&y=0"></article>]]></description>
