@@ -1,4 +1,4 @@
-layout_spectrum: 0
+layout_spectrum: 1
 name: Matt-Geo
 collections:
   - index:
@@ -13,14 +13,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 1
+  brandStrength: 0.6
   lightness: 1
   saturation: 0
   rhythmicContrast: 0
   brandColors:
     - '#FFFFFF'
-    - '#040000'
-    - '#6D6D6D'
-    - '#DFDFDF'
-    - '#A7A7A7'
+    - '#050402'
+    - '#4F4F50'
+    - '#C2C1C6'
+    - '#99979A'
 typography_spectrum: 0.1574468
